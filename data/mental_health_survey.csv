@@ -1,0 +1,101 @@
+id,age,gender,occupation,work_hours_per_week,sleep_hours_per_day,physical_activity_days_per_week,stress_level,anxiety_score,depression_score,has_sought_treatment,work_life_balance,social_support,income_level,education_level,marital_status,has_chronic_condition,overall_mental_health_score
+1,25,Male,Software Engineer,45,6,3,High,7,5,Yes,Poor,Good,High,Bachelor's,Single,No,55
+2,32,Female,Teacher,40,7,4,Medium,4,3,No,Good,Excellent,Medium,Master's,Married,No,72
+3,28,Male,Healthcare Worker,50,5,2,High,8,6,Yes,Poor,Fair,Medium,Bachelor's,Single,Yes,48
+4,45,Female,Manager,55,6,1,High,6,7,Yes,Poor,Good,High,Master's,Married,No,52
+5,23,Non-binary,Student,20,8,5,Medium,5,4,No,Good,Good,Low,High School,Single,No,68
+6,38,Male,Sales Representative,48,5,2,High,7,6,No,Poor,Fair,Medium,Bachelor's,Divorced,No,50
+7,29,Female,Nurse,45,6,3,High,8,5,Yes,Fair,Good,Medium,Bachelor's,Single,No,54
+8,55,Male,Executive,60,5,1,High,5,8,Yes,Poor,Fair,High,MBA,Married,Yes,45
+9,22,Female,Retail Worker,35,7,4,Low,3,2,No,Good,Excellent,Low,High School,Single,No,78
+10,41,Male,Accountant,42,6,2,Medium,5,4,No,Fair,Good,High,Bachelor's,Married,No,65
+11,35,Female,Marketing Professional,50,5,3,High,6,5,Yes,Poor,Fair,High,Master's,Single,No,55
+12,27,Male,Construction Worker,45,7,5,Medium,4,3,No,Good,Excellent,Medium,High School,Married,No,75
+13,48,Female,Lawyer,55,5,1,High,7,7,Yes,Poor,Poor,High,Doctorate,Divorced,No,42
+14,31,Non-binary,Artist,30,8,4,Low,4,4,No,Excellent,Good,Low,Bachelor's,Single,No,70
+15,26,Male,IT Consultant,50,5,2,High,8,6,Yes,Poor,Fair,High,Master's,Single,No,48
+16,52,Female,HR Manager,45,6,2,Medium,5,5,No,Fair,Good,High,Bachelor's,Married,Yes,62
+17,24,Male,Unemployed,0,9,3,High,9,8,Yes,N/A,Poor,Low,Bachelor's,Single,No,38
+18,39,Female,Doctor,55,5,2,High,6,4,Yes,Poor,Good,High,Doctorate,Married,No,58
+19,33,Male,Graphic Designer,40,7,4,Low,3,2,No,Good,Excellent,Medium,Bachelor's,Married,No,82
+20,29,Female,Financial Analyst,48,6,3,Medium,5,4,No,Fair,Good,High,Master's,Single,No,68
+21,44,Male,Police Officer,45,6,2,High,7,6,Yes,Fair,Good,Medium,Associate's,Married,No,52
+22,26,Female,Social Worker,42,6,3,High,6,5,Yes,Fair,Excellent,Medium,Master's,Single,No,60
+23,37,Male,Real Estate Agent,50,5,2,High,6,5,No,Poor,Fair,High,Bachelor's,Divorced,No,54
+24,21,Female,University Student,15,7,5,Medium,5,4,No,Good,Good,Low,High School,Single,No,70
+25,56,Male,Retired,0,8,4,Low,3,3,No,Excellent,Good,Medium,Bachelor's,Married,Yes,76
+26,30,Female,Data Scientist,45,6,3,Medium,4,3,No,Good,Good,High,Master's,Single,No,72
+27,42,Male,Chef,48,5,2,High,6,5,Yes,Poor,Fair,Medium,High School,Married,No,55
+28,25,Non-binary,Writer,35,7,4,Medium,5,4,No,Good,Good,Low,Bachelor's,Single,No,68
+29,49,Female,Pharmacist,40,7,3,Medium,4,3,No,Good,Good,High,Doctorate,Married,No,74
+30,34,Male,Architect,45,6,2,Medium,5,4,No,Fair,Good,High,Master's,Married,No,66
+31,28,Female,Journalist,50,5,2,High,7,5,Yes,Poor,Fair,Medium,Bachelor's,Single,No,52
+32,46,Male,Truck Driver,55,5,1,High,6,6,No,Poor,Fair,Medium,High School,Married,Yes,48
+33,23,Female,Intern,40,7,4,Medium,5,4,No,Fair,Good,Low,Bachelor's,Single,No,67
+34,38,Male,Entrepreneur,60,5,2,High,7,5,Yes,Poor,Good,High,MBA,Married,No,53
+35,51,Female,Professor,45,6,3,Medium,4,4,No,Good,Excellent,High,Doctorate,Married,No,73
+36,27,Male,Personal Trainer,35,8,6,Low,2,1,No,Excellent,Excellent,Medium,Bachelor's,Single,No,88
+37,43,Female,Dentist,40,7,3,Medium,4,3,No,Good,Good,High,Doctorate,Married,No,75
+38,30,Male,Musician,25,7,4,Low,4,3,No,Good,Excellent,Low,High School,Single,No,76
+39,36,Female,Project Manager,50,5,2,High,6,5,Yes,Poor,Fair,High,Master's,Married,No,55
+40,24,Male,Delivery Driver,45,6,3,Medium,5,4,No,Fair,Good,Low,High School,Single,No,64
+41,54,Female,School Principal,48,6,2,High,5,4,No,Fair,Good,High,Master's,Married,No,62
+42,29,Non-binary,UX Designer,40,7,4,Medium,4,3,No,Good,Good,High,Bachelor's,Single,No,74
+43,47,Male,Electrician,45,6,3,Medium,5,4,No,Fair,Good,Medium,Associate's,Married,No,66
+44,22,Female,Waitress,35,7,4,Medium,5,4,No,Fair,Fair,Low,High School,Single,No,62
+45,40,Male,Pilot,48,6,3,Medium,4,3,No,Fair,Good,High,Bachelor's,Married,No,70
+46,33,Female,Veterinarian,50,6,3,High,6,4,Yes,Fair,Good,High,Doctorate,Single,No,60
+47,26,Male,Customer Service,40,6,3,Medium,5,5,No,Fair,Good,Low,Associate's,Single,No,62
+48,58,Female,Retired Nurse,0,8,4,Low,4,3,No,Excellent,Excellent,Medium,Bachelor's,Widowed,Yes,74
+49,35,Male,Web Developer,45,6,3,Medium,5,4,No,Fair,Good,High,Bachelor's,Married,No,68
+50,31,Female,Psychologist,42,7,4,Medium,3,2,No,Good,Excellent,High,Doctorate,Single,No,82
+51,44,Male,Insurance Agent,45,5,2,High,6,5,No,Poor,Fair,Medium,Bachelor's,Divorced,No,54
+52,27,Female,Event Planner,50,5,2,High,7,5,Yes,Poor,Good,Medium,Bachelor's,Single,No,52
+53,39,Male,Plumber,40,7,4,Medium,4,3,No,Good,Good,Medium,Associate's,Married,No,72
+54,23,Female,Graduate Student,25,6,3,High,6,5,Yes,Fair,Good,Low,Bachelor's,Single,No,58
+55,50,Male,Factory Supervisor,48,6,2,Medium,5,4,No,Fair,Fair,Medium,High School,Married,Yes,60
+56,28,Non-binary,Research Analyst,42,6,3,Medium,5,4,No,Good,Good,Medium,Master's,Single,No,68
+57,46,Female,Bank Manager,50,5,2,High,6,5,Yes,Poor,Good,High,MBA,Married,No,56
+58,32,Male,Mechanical Engineer,45,6,3,Medium,4,3,No,Fair,Good,High,Bachelor's,Married,No,70
+59,25,Female,Yoga Instructor,30,8,6,Low,2,2,No,Excellent,Excellent,Medium,Bachelor's,Single,No,86
+60,41,Male,Security Guard,45,6,2,Medium,5,5,No,Fair,Fair,Low,High School,Divorced,No,58
+61,37,Female,Interior Designer,40,7,3,Medium,4,3,No,Good,Good,High,Bachelor's,Married,No,74
+62,24,Male,Barista,35,7,4,Low,4,3,No,Good,Excellent,Low,Associate's,Single,No,75
+63,53,Female,Operations Director,55,5,1,High,6,6,Yes,Poor,Fair,High,MBA,Married,Yes,48
+64,29,Male,Sports Coach,38,7,5,Low,3,2,No,Good,Excellent,Medium,Bachelor's,Single,No,82
+65,45,Female,Librarian,38,7,3,Low,3,3,No,Good,Good,Medium,Master's,Married,No,78
+66,31,Non-binary,Game Developer,48,6,2,High,6,5,Yes,Fair,Good,High,Bachelor's,Single,No,58
+67,26,Male,Call Center Agent,40,6,3,Medium,5,4,No,Fair,Fair,Low,High School,Single,No,62
+68,48,Female,Real Estate Broker,50,5,2,High,6,5,No,Poor,Good,High,Bachelor's,Married,No,56
+69,34,Male,Civil Engineer,45,6,3,Medium,4,3,No,Fair,Good,High,Bachelor's,Married,No,70
+70,22,Female,Part-time Worker,25,8,5,Low,4,3,No,Good,Excellent,Low,High School,Single,No,76
+71,57,Male,Company Director,55,5,2,High,5,6,Yes,Poor,Good,High,MBA,Married,Yes,50
+72,30,Female,Dietitian,40,7,4,Medium,4,3,No,Good,Good,Medium,Bachelor's,Single,No,74
+73,43,Male,Transportation Manager,48,6,2,Medium,5,4,No,Fair,Fair,Medium,Bachelor's,Married,No,64
+74,25,Female,Fashion Designer,45,6,3,High,6,5,Yes,Fair,Good,Medium,Bachelor's,Single,No,58
+75,38,Male,Investment Banker,60,5,1,High,8,7,Yes,Poor,Fair,High,MBA,Single,No,44
+76,33,Female,Occupational Therapist,42,7,4,Medium,4,3,No,Good,Excellent,Medium,Master's,Married,No,76
+77,47,Male,Restaurant Owner,55,5,2,High,6,5,No,Poor,Good,High,Bachelor's,Married,Yes,52
+78,28,Female,Flight Attendant,45,6,3,High,5,4,No,Fair,Good,Medium,Associate's,Single,No,62
+79,52,Male,Quality Manager,45,6,2,Medium,4,4,No,Fair,Good,High,Bachelor's,Married,No,68
+80,24,Non-binary,Freelancer,35,7,4,Medium,5,4,No,Good,Good,Low,Bachelor's,Single,No,70
+81,40,Female,Speech Therapist,40,7,3,Medium,4,3,No,Good,Good,Medium,Master's,Married,No,74
+82,35,Male,Database Administrator,45,6,3,Medium,5,4,No,Fair,Good,High,Bachelor's,Married,No,68
+83,26,Female,Lab Technician,42,6,3,Medium,5,4,No,Fair,Good,Medium,Bachelor's,Single,No,66
+84,49,Male,Regional Manager,50,5,2,High,6,5,Yes,Poor,Good,High,MBA,Married,No,54
+85,31,Female,Copywriter,40,7,3,Medium,4,4,No,Good,Good,Medium,Bachelor's,Single,No,70
+86,23,Male,Cashier,35,7,4,Low,4,3,No,Good,Good,Low,High School,Single,No,74
+87,55,Female,Nurse Practitioner,45,6,3,High,5,4,No,Fair,Good,High,Master's,Married,Yes,62
+88,37,Male,Supply Chain Manager,48,6,2,Medium,5,4,No,Fair,Good,High,Bachelor's,Married,No,66
+89,28,Female,Biotech Researcher,45,6,3,High,6,5,Yes,Fair,Good,High,Doctorate,Single,No,58
+90,44,Male,Physical Therapist,40,7,4,Medium,4,3,No,Good,Good,High,Doctorate,Married,No,74
+91,32,Non-binary,Content Creator,35,7,4,Medium,4,4,No,Good,Excellent,Medium,Bachelor's,Single,No,72
+92,26,Male,Warehouse Worker,45,6,3,Medium,5,4,No,Fair,Fair,Low,High School,Single,No,62
+93,50,Female,College Dean,50,6,2,High,5,5,No,Fair,Good,High,Doctorate,Married,No,60
+94,29,Female,Actuary,45,6,3,Medium,5,4,No,Fair,Good,High,Master's,Single,No,68
+95,42,Male,Firefighter,48,6,4,High,6,5,Yes,Fair,Excellent,Medium,Associate's,Married,No,58
+96,24,Female,Receptionist,40,7,3,Low,4,3,No,Good,Good,Low,High School,Single,No,72
+97,36,Male,Marketing Director,52,5,2,High,7,5,Yes,Poor,Fair,High,MBA,Married,No,52
+98,33,Female,Social Media Manager,45,6,3,Medium,5,4,No,Fair,Good,Medium,Bachelor's,Single,No,66
+99,59,Male,Retired Teacher,0,8,4,Low,3,3,No,Excellent,Good,Medium,Master's,Married,Yes,76
+100,27,Female,Environmental Scientist,42,7,4,Medium,4,3,No,Good,Good,High,Master's,Single,No,74
